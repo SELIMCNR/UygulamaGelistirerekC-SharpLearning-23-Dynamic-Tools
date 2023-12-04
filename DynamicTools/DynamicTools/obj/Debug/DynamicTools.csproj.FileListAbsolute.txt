@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project30\DynamicTools\DynamicTools\bin\Debug\DynamicTools.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project30\DynamicTools\DynamicTools\bin\Debug\DynamicTools.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project30\DynamicTools\DynamicTools\bin\Debug\DynamicTools.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project30\DynamicTools\DynamicTools\obj\Debug\DynamicTools.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project30\DynamicTools\DynamicTools\obj\Debug\DynamicTools.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project30\DynamicTools\DynamicTools\obj\Debug\DynamicTools.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project30\DynamicTools\DynamicTools\obj\Debug\DynamicTools.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project30\DynamicTools\DynamicTools\obj\Debug\DynamicTools.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project30\DynamicTools\DynamicTools\obj\Debug\DynamicTools.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project30\DynamicTools\DynamicTools\obj\Debug\DynamicTools.pdb
